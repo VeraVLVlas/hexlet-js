@@ -1,4 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-console.log('Hello, World');
-console.log(_.last(['one', 'two']));
+_.last(['one', 'two']);
